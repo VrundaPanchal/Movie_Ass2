@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Example</string>
+    <string name="title">Title</string>
+    <string name="studio">Studio</string>
+    <string name="criticsrating">Critics Rating</string>
+    <string name="medit">EDIT</string>
+    <string name="mdelete">DELETE</string>
+    <string name="enter_critics_rating">Enter Critics Rating</string>
+    <string name="add">ADD\n</string>
+    <string name="enter_movie_studio">Enter Studio</string>
+    <string name="enter_movie_title">Enter Title</string>
+</resources>
